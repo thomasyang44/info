@@ -1,10 +1,11 @@
-# Thomas Yang - Info
+# Info
 
 ## 1. Goal
 Area for documenting and sharing knowledge for CP4BA including OpenShift, unix, etc..
 
 
 All the content is visible [as a BOOK format here](https://thomasyang44.github.io/info/).  
+[Revert] (GitHub https://github.com/thomasyang44/info)
 
 ### Building this booklet locally
 
@@ -13,7 +14,7 @@ The content of this repository is written with markdown files, packaged with [Mk
 1. Install MkDocs locally following the [official documentation instructions](https://www.mkdocs.org/#installation).
 1. Install Material plugin for mkdocs:  `pip install mkdocs-material`
 2. `git clone https://github.com/thomasyang44/info` _(or your forked repository if you plan to edit)_
-3. `cd sko-tech-academy`
+3. `cd info`
 4. `mkdocs serve`
 5. Go to `http://127.0.0.1:8000/info` in your browser.
 
