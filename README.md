@@ -1,4 +1,4 @@
-# 2022 SKO Tech Academy - Business Automation 
+# Thomas Yang - Info
 
 ## 1. Goal
 The general aim of this advanced training is to make the technical sellers PoT/PoC ready for the portfolio. At the end of this training, the technical sellers should be able to take a customer problem, use their knowledge of the portfolio, then plan, define and execute the PoC/PoT using the components in the portfolio.
@@ -42,5 +42,4 @@ In some cases you might not want to alter your Python setup and rather go with a
 This project includes a `.github` folder to define a git action workflow to build the pages when content is pushed to github.
 
 ## Contributors
-* Lead content developer [Gerry Baird](https://www.linkedin.com/in/gerry-baird-a644524/)
 * Lead content developer [Thomas Yang](https://www.linkedin.com/in/thomasyang44/)
