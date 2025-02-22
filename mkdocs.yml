@@ -1,10 +1,10 @@
-site_name: SKO Tech Academy - Business Automation
-#site_url: https://thomasyang44.github.io/sko-tech-academy
-site_author: Gerry Baird, Thomas Yang
+site_name: Thomas Yang - Info
+#site_url: https://thomasyang44.github.io/info
+site_author: Thomas Yang
 
 # Repository
-repo_name: sko-tech-academy
-repo_url: https://github.com/thomasyang44/sko-tech-academy
+repo_name: info
+repo_url: https://github.com/thomasyang44/info
 docs_dir: docs
 site_dir: public
 edit_uri: edit/master/docs
@@ -63,7 +63,7 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.snippets:
       base_path: docs/snippets
-copyright: Copyright © 2022 IBM
+copyright: Copyright © 2025 IBM
 nav:
   - Home:
     - Goals, Statement of Approach, Learning Objectives: index.md
